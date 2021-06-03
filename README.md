@@ -1,0 +1,2 @@
+# RubberDucky
+Ruber Ducky scripts
